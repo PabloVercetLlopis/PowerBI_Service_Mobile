@@ -48,17 +48,17 @@ Los datos son simulados para este proyecto y representan una base comercial con 
 PowerBI_Service_Mobile/
 │
 
-─ powerbi/
+─ Powerbi/
 
-│ └─ Proyecto7_MERX_ServiceAndMobile.pbix
+│ └─ Reporte Merx.pbix
 
 ├─ Data/
 
-│ └─ Proyecto7_MERX_ServiceAndMobile.pbix
+│ └─ Merx Data.pbix
 
 ├─ imagenes/
 
-│ ├─ captura_merx_pc.png
+│ ├─ Imagen1.png
 
 │ └─ captura_merx_movil.png
 │
